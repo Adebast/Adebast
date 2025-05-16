@@ -10,5 +10,8 @@ A data given by a school that run an online result display, the data contain 'se
 ### Tools
 -Excel - Data cleanin
 
+-power bi- Dashboard
+
+
 
   
